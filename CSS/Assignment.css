@@ -1,0 +1,126 @@
+body{
+    background-color: black;
+}
+
+.er{
+    float: right;
+    width: 50%;
+    color: white;
+    font-size: 28px;
+    font-family: sans-serif;
+
+}
+
+.qw{
+    float: left;
+    width: 50%;
+    /*background-color: grey;*/
+    color: white;
+    border-collapse: collapse;
+}
+
+
+/*er{*/
+/*    !*border: darkgray 1px solid;*!*/
+/*    border-radius: 40px;*/
+/*    text-align: right;*/
+/*    margin: 72px;*/
+/*    float: right;*/
+/*    width: 50%;*/
+/*}*/
+
+/*#mia{*/
+/*    !*margin: 60px;*!*/
+/*    border-radius: 30px;*/
+/*    background-color: gray;*/
+/*    padding: 18px;*/
+/*    font-size: 28;*/
+/*    float: left;*/
+/*    width: 50%;*/
+/*}*/
+
+input:hover{
+    border: dodgerblue 1px solid;
+
+}
+
+input{
+    border-radius: 16px;
+    padding: 16px;
+    font-family: sans-serif;
+    color: white;
+    background-color: gray;
+    margin: 10px;
+    border-color: gray;
+    font-size: 28;
+    /*border: dodgerblue 2px solid;*/
+    width: 39%;
+    height: 15%;ht
+
+
+
+}
+
+
+/*h3{*/
+/*    color: white;*/
+/*    text-align: right;*/
+/*    font-size: 32px;*/
+/*    margin: 42px;*/
+/*    float: 10px;*/
+/*}*/
+
+iframe{
+    float: 10px;
+    -webkit-filter: grayscale();
+    border-radius: 30px;
+    cursor: grab;
+
+}
+
+#gg{
+    background-color: gray;
+    border-radius: 20px;
+    font-family: sans-serif;
+    color: white;
+
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+    font-size: 32px;
+    animation: forwards;
+    /*animation-delay: 3000ms;*/
+    /*animation-fill-mode: forwards;*/
+    /*animation-timing-function: ease-in-out;*/
+    /*animation-play-state: paused;*/
+    transition: .3s cubic-bezier(.4,0,.2,1);
+-webkit-transition: .3s cubic-bezier(.4,0,.2,1);
+
+}
+
+
+button{
+    font-size: 28px;
+    margin: 32px;
+    border-radius: 40px;
+    padding: 10px;
+    width: 21%;
+    border: white 2px solid;
+    background-color: black;
+    color: white;
+}
+
+h3{
+    font-size: 32px;
+    font-family: sans-serif;
+}
+
+.bot {
+    border: grey
+    1px solid;
+    border-radius: 20px;
+    /*box-sizing: border-box;*/
+
+}
